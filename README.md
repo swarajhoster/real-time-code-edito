@@ -1,3 +1,1 @@
-### Demo
-
-https://code-sync.codersgyan.com/
+Real-time-code-editor with socket.io and react + express.
